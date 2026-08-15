@@ -17,7 +17,7 @@
 		},
 		"HttpLS_properties_typeProperties_url": {
 			"type": "string",
-			"defaultValue": "https://github.com/"
+			"defaultValue": "https://raw.githubusercontent.com/"
 		}
 	},
 	"variables": {
@@ -199,7 +199,7 @@
 					"location": {
 						"type": "HttpServerLocation",
 						"relativeUrl": {
-							"value": "anshlambagit/Uber_Data_Engineer_Project/blob/main/Data/@{dataset().p_file}",
+							"value": "anshlambagit/Uber_Data_Engineer_Project/refs/heads/main/Data/@{dataset().p_file}",
 							"type": "Expression"
 						}
 					}
