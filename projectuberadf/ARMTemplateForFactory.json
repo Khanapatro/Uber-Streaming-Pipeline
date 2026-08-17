@@ -199,7 +199,7 @@
 					"location": {
 						"type": "HttpServerLocation",
 						"relativeUrl": {
-							"value": "anshlambagit/Uber_Data_Engineer_Project/refs/heads/main/Data/@{dataset().p_file}",
+							"value": "Khanapatro/Uber-Streaming-Pipeline/refs/heads/main/Data/@{dataset().p_file}",
 							"type": "Expression"
 						}
 					}
